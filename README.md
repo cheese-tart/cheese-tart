@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 -->
 #### About me
 ⚒️ I am currently working on a web app where BMW owners can find aftermarket parts and vehicle modifications based on their year, make, and model.
+
 👨‍🏫 I am currently getting into full-stack development and learning how to work with the MERN stack (**MongoDB**, **Express,js**, **React.js**, and **Node.js**).
+
 🤝 I am willing to collaborate on any projects.
+
 📝 I am open to feedback on my projects.
+
 💖 I have a passion for bodybuilding and cars.
