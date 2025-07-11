@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 📝 I am open to any collaboration and feedback.
 
-💖 I have a passion for bodybuilding, cars, and computers.
+💖 I enjoy benchpressing and learning about cars and computers.
