@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 📝 I am open to any collaboration and feedback.
 
 💖 I enjoy benchpressing, playing the piano, and learning about cars and computers.
+
+## My Tech Stack
