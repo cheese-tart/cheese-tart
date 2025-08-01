@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ## My Tech Stack🖥️
 
-<img width="77" height="28" alt="image" src="https://github.com/user-attachments/assets/17b5cf60-5d75-472a-9647-02ee3d52a5a4" /><img width="52" height="28" alt="image" src="https://github.com/user-attachments/assets/74e03d7c-6413-4eeb-b0e2-68b9d4cbaeee" /><img width="72" height="28" alt="image" src="https://github.com/user-attachments/assets/a0074bbb-a646-4e19-8872-7f47e1072b42" /><img width="127" height="28" alt="image" src="https://github.com/user-attachments/assets/7d4f6c43-ff95-4079-a8a4-b1cf12286621" />
+<img width="77" height="28" alt="image" src="https://github.com/user-attachments/assets/17b5cf60-5d75-472a-9647-02ee3d52a5a4" /> <img width="52" height="28" alt="image" src="https://github.com/user-attachments/assets/74e03d7c-6413-4eeb-b0e2-68b9d4cbaeee" /> <img width="72" height="28" alt="image" src="https://github.com/user-attachments/assets/a0074bbb-a646-4e19-8872-7f47e1072b42" /> <img width="127" height="28" alt="image" src="https://github.com/user-attachments/assets/7d4f6c43-ff95-4079-a8a4-b1cf12286621" /> 
 
 
 
