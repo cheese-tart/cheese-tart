@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 👨‍🏫 I am currently getting into full-stack development and learning how to work with the MERN stack (**MongoDB**, **Express,js**, **React.js**, and **Node.js**).
 
-📝 I am open to any collaboration and feedback.
-
 💖 I enjoy benchpressing, playing the piano, and learning about cars and computers.
 
 ## My Tech Stack🖥️
