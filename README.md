@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <img width="86" height="28" alt="image" src="https://github.com/user-attachments/assets/97370f12-4ee6-4a95-b54f-c59d29188ee0" /> <img width="101" height="28" alt="image" src="https://github.com/user-attachments/assets/73e31af2-7469-4976-8e6e-31ab8741e1f0" /> <img width="123" height="28" alt="image" src="https://github.com/user-attachments/assets/36eda28a-2a14-403c-a217-0295a1ce5be8" />
 
-#### Dev Tools & Databases:
+#### Dev Tools & Services:
 
 <img width="111" height="28" alt="image" src="https://github.com/user-attachments/assets/4a08d079-71d3-4ccd-add4-af0ae63af695" /> <img width="68" height="28" alt="image" src="https://github.com/user-attachments/assets/15f4d24f-ec87-4ebd-8638-470a28801d07" /> <img width="108" height="28" alt="image" src="https://github.com/user-attachments/assets/62871e5d-0a3d-406d-ad6b-d9400037e054" /> 
 
