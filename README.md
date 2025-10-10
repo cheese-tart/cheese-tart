@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### About me
-⚒️ I am currently working on Bimmer Builder, a web app where BMW owners can find aftermarket parts and vehicle modifications based on their year, make, and model.
+⚒️ I am currently working on Bimmer Builder, a web app where BMW owners can find aftermarket parts and vehicle modifications based on their vehicle model and generation.
 
 👨‍🏫 I am currently getting into full-stack development and learning how to work with the MERN stack (**MongoDB**, **Express,js**, **React.js**, and **Node.js**).
 
