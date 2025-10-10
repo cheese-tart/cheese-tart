@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 👨‍🏫 I am currently getting into full-stack development and learning how to work with the MERN stack (**MongoDB**, **Express,js**, **React.js**, and **Node.js**).
 
-❤️‍🔥 I enjoy benchpressing and am a big fan of BMW.
+❤️‍🔥 I enjoy benchpressing, playing the piano and driving BMWs.
 
 ## My Tech Stack🖥️
 
