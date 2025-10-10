@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 👨‍🏫 I am currently getting into full-stack development and learning how to work with the MERN stack (**MongoDB**, **Express,js**, **React.js**, and **Node.js**).
 
-❤️‍🔥 I enjoy benchpressing, and am a big fan of Chris Beardsley's research.
+❤️‍🔥 Avid benchpresser and reader of Chris Breadsley's research.
 
 ## My Tech Stack🖥️
 
