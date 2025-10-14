@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ❤️‍🔥 Avid benchpresser and reader of Chris Beardsley's research.
 
-## My Tech Stack🖥️
+## My Tech Stack 🖥️
 
 #### Languages:
 
