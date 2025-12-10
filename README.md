@@ -1,25 +1,11 @@
 ## Hi there, I'm Chester👋
 
-<!--
-**cheese-tart/cheese-tart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science major at the University of British Columbia. I'm good at benchpressing, and I like cars.
 
-Here are some ideas to get you started:
+I do full-stack/backend development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-#### About me
-⚒️ I am working on Bimmer Builder, a web application where BMW owners can find compatible automotive parts based on their vehicle model and generation.
-
-👨‍🏫 Currently getting into full-stack development and learning how to work with the MERN stack (**MongoDB**, **Express.js**, **React.js**, and **Node.js**).
-
-❤️‍🔥 Avid benchpresser and reader of Chris Beardsley's research.
+## Current Focus
+I am working on Bimmer Builder, a web application where BMW owners can find compatible automotive parts based on their vehicle model and generation.
 
 ## My Tech Stack 🖥️
 
