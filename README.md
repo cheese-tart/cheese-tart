@@ -4,7 +4,7 @@ I'm a Computer Science major at the University of British Columbia. I'm good at 
 
 I do full-stack/backend development.
 
-## Current Focus
+## Current Focus🤓
 I am working on Bimmer Builder, a web application where BMW owners can find compatible automotive parts based on their vehicle model and generation.
 
 ## My Tech Stack 🖥️
