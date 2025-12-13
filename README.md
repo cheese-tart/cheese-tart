@@ -1,6 +1,6 @@
 ## Hi there, I'm Chester👋
 
-I'm a computer science major at the University of British Columbia. I'm good at benchpressing, and I like cars.
+I'm a computer science student at the University of British Columbia. I'm good at benchpressing, and I like cars.
 
 I do full-stack/backend development.
 
