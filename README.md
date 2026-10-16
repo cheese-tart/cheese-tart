@@ -1,6 +1,7 @@
 ## Hi there, I'm Chester👋
 
 I'm a computer science student at the University of British Columbia. I'm good at benchpressing, and I like cars.
+
 Currently learning more about how to work with ML libraries.
 
 
