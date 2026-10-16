@@ -6,5 +6,5 @@ Currently learning more about how to work with ML libraries.
 
 
 ## Experience:
-- [Royal Bank of Canada](https://www.rbc.com/about-rbc.html) - Incoming Software Enginner Intern (Winter 2027)
+- [Royal Bank of Canada](https://www.rbc.com/about-rbc.html) - Incoming Software Engineer Intern (Winter 2027)
 - [Girls Who LEAP](https://www.girlswholeap.com/) - Mobile App Developer since May 2026
