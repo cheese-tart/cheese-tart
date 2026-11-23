@@ -1,8 +1,7 @@
 ## Hi there, I'm Chester👋
 
 I'm a computer science student at The University of British Columbia. I'm good at benchpressing, and I like cars.
-
-Currently learning more about how to work with ML libraries.
+I'm a little behind on the LeetCode grind, and I'm way behind on studying systems design (yikes).
 
 
 ## Experience:
