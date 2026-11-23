@@ -7,3 +7,5 @@ I'm a little behind on the LeetCode grind, and I'm way behind on studying system
 ## Experience:
 - [Royal Bank of Canada](https://www.rbc.com/about-rbc.html) - Incoming Software Engineer Intern (Winter 2027)
 - [Girls Who LEAP](https://www.girlswholeap.com/) - Mobile App Developer since May 2026
+
+Thanks for dropping by!
