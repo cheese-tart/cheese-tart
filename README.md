@@ -11,4 +11,4 @@ I'm a little behind on the LeetCode grind, and I'm way behind on studying system
 **Linkedin:** www.linkedin.com/in/wong-chester  
 **Email:** w.chester@outlook.com
 
-Thanks for dropping by! Feel free to connect with me, especially if you have referrals to give ;)
+Thanks for dropping by! Feel free to connect with me, especially if you have referrals to give ;).
