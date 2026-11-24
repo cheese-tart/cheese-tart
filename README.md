@@ -1,6 +1,6 @@
 ## Hi there, I'm Chester👋
 
-I'm a computer science student at The University of British Columbia. I'm good at benchpressing, and I like cars.\
+I'm a computer science student at The University of British Columbia. I'm good at benchpressing, and I like cars.  
 I'm a little behind on the LeetCode grind, and I'm way behind on studying systems design (yikes).
 
 ## Experience:
@@ -8,7 +8,7 @@ I'm a little behind on the LeetCode grind, and I'm way behind on studying system
 - [Girls Who LEAP](https://www.girlswholeap.com/) - Mobile App Developer since May 2026
 
 ## Connect with me:
-**Linkedin:** www.linkedin.com/in/wong-chester\
+**Linkedin:** www.linkedin.com/in/wong-chester  
 **Email:** w.chester@outlook.com
 
 Thanks for dropping by!
