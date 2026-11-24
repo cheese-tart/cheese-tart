@@ -8,4 +8,8 @@ I'm a little behind on the LeetCode grind, and I'm way behind on studying system
 - [Royal Bank of Canada](https://www.rbc.com/about-rbc.html) - Incoming Software Engineer Intern (Winter 2027)
 - [Girls Who LEAP](https://www.girlswholeap.com/) - Mobile App Developer since May 2026
 
+## Connect with me:
+**Linkedin:** www.linkedin.com/in/wong-chester
+**Email:** w.chester@outlook.com
+
 Thanks for dropping by!
